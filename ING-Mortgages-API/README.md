@@ -1,4 +1,4 @@
-#ING Mortgages API
+# ING Mortgages API
 
 The following assessment consists in a REST API built using Spring framework.
 
